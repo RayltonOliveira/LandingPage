@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,200;1,200;1,300&family=Righteous&family=Sarala&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+body {
+    font-size: 100%;
+    background: linear-gradient(68.15deg, #2F2325 16.62%, #8E5D52 85.61%);
+}
+
+.cabeçalho {
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.Cabeçalho-imagem {
+    
+}
+
+.Cabeçalho-menu {
+
+}
+
+.Cabeçalho-menu-item {
+
+}
+
+.conteudo {
+
+}
+
+.botão {
+
+}
+
+.imagem-principal {
+    
+
+}
+
+.conteudo-secundario {
+
+}
+
+.conteudo-secundario-principal {
+
+}
+
+.conteudo-secundario-paragrafo {
+    
+}
+
+.imagem-rodape {
+    
+
+}
