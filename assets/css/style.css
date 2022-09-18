@@ -93,6 +93,7 @@ body {
 
 .conteudo-principal-escrito-botao:hover {
     background-color: rgb(42, 165, 89);
+    cursor: pointer;
 }
 
 .conteudo-principal-imagem {
